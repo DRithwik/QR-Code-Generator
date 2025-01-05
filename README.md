@@ -17,7 +17,9 @@ This is a simple QR code generator application built with React. It allows users
 ## Contributing
 
 Feel free to contribute to the project by opening issues or submitting pull requests.
+
 If you find this project useful, please consider giving it a star on GitHub. Your support is greatly appreciated!
 
 Happy Coding :) 
+
 [DRithwik](https://github.com/DRithwik)
