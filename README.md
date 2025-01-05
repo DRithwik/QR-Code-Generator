@@ -20,4 +20,4 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 If you find this project useful, please consider giving it a star on GitHub. Your support is greatly appreciated!
 
 Happy Coding :) 
-* DRithwik (https://github.com/DRithwik)
+[DRithwik](https://github.com/DRithwik)
