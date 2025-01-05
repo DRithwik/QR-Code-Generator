@@ -14,10 +14,6 @@ This is a simple QR code generator application built with React. It allows users
 2.  Install dependencies using npm or yarn.
 3.  Run  `npm start`  or  `yarn start`  to start the development server.
 
-## Demo
-
-![](/public//qrdemo.gif)
-
 ## Contributing
 
 Feel free to contribute to the project by opening issues or submitting pull requests.
